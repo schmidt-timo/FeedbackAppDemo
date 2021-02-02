@@ -363,7 +363,7 @@ export default EvaluationPage;
 
 export async function getServerSideProps(ctx) {
   const id = ctx.params.id;
-  const meeting = await axios.get("http://localhost:3000/api/meeting/" + id);
+  const meeting = await axios.get("https://feedbackapp-demo.herokuapp.com/api/meeting/" + id);
 
   return {
     props: { ...meeting.data },
