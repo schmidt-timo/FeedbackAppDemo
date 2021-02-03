@@ -17,4 +17,4 @@ For the full project, please check https://github.com/hhanhph/Feedback-App.
 ## Animations
 * [Start page animation by dilpreet singh on LottieFiles](https://lottiefiles.com/28457-feedback-persuasion-animation)
 * [Check Mark animation by Ami Moradia on LottieFiles](https://lottiefiles.com/20576-check-mark)
-
+* [404 Animation by Mark Arrow on LottieFiles](https://lottiefiles.com/40806-error-404?lang=de)
