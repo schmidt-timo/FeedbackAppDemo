@@ -4,7 +4,7 @@ Please click [here](https://feedbackapp-demo.herokuapp.com/) to open the demo of
 
 # Feedback App 
 
-This is a collaboration project between the students of the International Media and Computing Course of Studies at the HTW Berlin and Brandung GmbH in the WiSe20. For the full project, please see https://github.com/hhanhph/Feedback-App.
+This is a collaboration project between the students of the International Media and Computing Course of Studies at the HTW Berlin and Brandung GmbH in the WiSe20. For the full project, please check https://github.com/hhanhph/Feedback-App.
  
 ## Documentations
 * https://nextjs.org/
