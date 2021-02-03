@@ -33,7 +33,8 @@ const Demo = () => {
                     <demo.ImageContainer>
                         <demo.Image src="/images/participation.png" />
                     </demo.ImageContainer>
-                    <demo.BoxText>Drücke jetzt hier, um Feedback für ein Demo-Meeting zu geben.</demo.BoxText>
+                    <demo.BoxText>Hier kann die Feedback App ausprobiert werden.
+                    Nach Absenden des Feedbacks erfolgt eine automatisch Weiterleitung zurück auf diese Seite.</demo.BoxText>
                     <demo.Button onClick={participation}>starten</demo.Button>
                 </demo.Box>
 
@@ -42,7 +43,8 @@ const Demo = () => {
                     <demo.ImageContainer>
                         <demo.Image src="/images/evaluation.png" />
                     </demo.ImageContainer>
-                    <demo.BoxText>Drücke jetzt hier, um die Auswertung anzusehen.</demo.BoxText>
+                    <demo.BoxText>Hier kann die Auswertung des Meetings angesehen werden.
+                    Feedback, welches mit dem oberen Button abgegeben wird, erscheint automatisch.</demo.BoxText>
                     <demo.Button onClick={evaluation}>Auswertung ansehen</demo.Button>
                 </demo.Box>
             
