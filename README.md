@@ -1,6 +1,6 @@
 # Demo
 
-Please click [here](https://feedbackapp-demo.herokuapp.com/) to open the web application.
+Please click [here](https://feedbackapp-demo.herokuapp.com/) to open the demo of our PWA.
 
 # Feedback App 
 
