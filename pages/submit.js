@@ -49,7 +49,7 @@ const Submit = () => {
             <card.QuestionBox>
 
             <card.TitleWrapper>
-                    <card.Subtitle>Feedback-App</card.Subtitle>
+                    <card.Subtitle>Feedback App</card.Subtitle>
                 </card.TitleWrapper>
 
                 <card.QuestionWrapper>
