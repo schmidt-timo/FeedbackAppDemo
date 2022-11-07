@@ -3,6 +3,9 @@
 This is a collaboration project between the students of the International Media and Computing Course of Studies at the HTW Berlin and Brandung GmbH in the WiSe20. 
 
 * For the demo, please visit https://feedbackapp-demo.herokuapp.com/.
+
+> :warning: Heroku [has discontinued its free plan](https://blog.heroku.com/next-chapter). **Therefore the demo is no longer available.**
+
 * For the full project, please visit https://github.com/hhanhph/Feedback-App.
 
 ## Screenshots
